@@ -22,6 +22,6 @@ I'm currently graduating in Information Systems at FAESA and specializing in Jav
 ## Reach Me
 
 <div style="display: inline_block">
-  <img align="center" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-dangelo/">
-  <img align="center" alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/bernardo.dl/">
+    <a href="https://www.linkedin.com/in/bernardo-dangelo/"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.instagram.com/bernardo.dl/"><img align="center" alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
