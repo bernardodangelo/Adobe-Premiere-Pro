@@ -7,8 +7,6 @@ I'm currently graduating in Information Systems at FAESA and specializing in Jav
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardodangelo&layout=compact&theme=transparent" alt="Bernardo D'Angelo's Most Used Languages" style="vertical-align: middle;"/>
 </div>
 
-
-
 ## Languages and Tools
 
 <div style="display: inline_block">
