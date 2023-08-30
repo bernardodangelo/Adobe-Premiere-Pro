@@ -1,6 +1,6 @@
 ## Hello! I'm Bernardo D'Angelo👋
 
-I'm currently graduating in Information Systems at FAESA and specializing in Java Back-end. I speak English and Portuguese and develop softwares in Java, C, CSS and HTML.
+I'm currently graduating in Information Systems at FAESA and specializing in Java Back-end. I speak English and Portuguese and develop softwares using Java, Spring Boot, C, CSS and HTML.
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=bernardodangelo&show_icons=true&theme=transparent" alt="Bernardo D'Angelo's GitHub Stats" style="vertical-align: middle;"/>
