@@ -1,5 +1,3 @@
-## Hello! I'm Bernardo D'Angelo👋
-
 I'm currently graduating in Information Systems at FAESA and specializing in Java Back-end. I speak English and Portuguese and develop softwares using Java, Spring Boot, and C.
 
 <div>
