@@ -1,4 +1,4 @@
-I'm currently graduating in Information Systems at FAESA and specializing in Java Back-end. I speak English and Portuguese and develop softwares using Java, Spring Boot, and C.
+I'm currently graduating in Information Systems and specializing in Java Back-end. I speak English and Portuguese and develop softwares using Java.
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardodangelo&layout=compact&theme=transparent" alt="Bernardo D'Angelo's Most Used Languages" style="vertical-align: middle;"/>
