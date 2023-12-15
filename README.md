@@ -3,14 +3,6 @@ I'm currently graduating in Information Systems and specializing in Java Back-en
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardodangelo&layout=compact&theme=transparent" alt="Bernardo D'Angelo's Most Used Languages" style="vertical-align: middle;"/>
 </div>
-
-## Languages and Tools
-
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-</div>
      
 ## Reach Me
 
