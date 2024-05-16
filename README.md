@@ -1,4 +1,4 @@
-I'm currently graduating in Information Systems and specializing in Java Back-end. I speak English and Portuguese and develop softwares using Java.
+I'm currently graduating in Information Systems and specializing in Java Back-end.
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardodangelo&layout=compact&theme=transparent" alt="Bernardo D'Angelo's Most Used Languages" style="vertical-align: middle;"/>
